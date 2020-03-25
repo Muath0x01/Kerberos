@@ -45,7 +45,7 @@ A client process (Alice) can access a process running on the real server (Bob) i
 JAVA 8 
 ```
 
-*** Notes: ***
+** Notes: **
 * This project depends on external libraies for string manipulation, the library is commons-lang3-3.5-bin.tar which will be included and needs to be added to the project in eclipse.
 
 * AS-TGS Password stored in AS and in TGS: KerberosIsTheBest999
