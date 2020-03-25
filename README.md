@@ -1,9 +1,10 @@
 # Kerberos
 A kerberos implementation in Java
 
-##What is Kerberos?
+## What is Kerberos?
 ```
-Kerberos is an authentication protocol, and at the same time a KDC, that has become very popular. Originally designed at MIT, it is named after the three-headed dog in Greek mythology that guards the gates of Hades. Kerberos has gone through several versions. The general concept is shown in Figure 1 and the detailed interaction is shown in Figure 2. This Kerberos works as a Key Distribution Center (KDC). It provides authentication, key generation, and key distribution.
+Kerberos is an authentication protocol, and at the same time a KDC, that has become very popular. Originally designed at MIT, it is 
+named after the three-headed dog in Greek mythology that guards the gates of Hades. Kerberos has gone through several versions. The general concept is shown in Figure 1 and the detailed interaction is shown in Figure 2. This Kerberos works as a Key Distribution Center (KDC). It provides authentication, key generation, and key distribution.
 ```
 
 ![Figure1](https://github.com/Muath0x01/Kerberos/blob/master/1.PNG)
